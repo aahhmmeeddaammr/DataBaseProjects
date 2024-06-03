@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|d:\\2nd year\\2nd term\\data base\\vs install\\addbookk\\addbookk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|solutionrelative:addbookk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|d:\\2nd year\\2nd term\\data base\\vs install\\addbookk\\addbookk\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|solutionrelative:addbookk\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|d:\\2nd year\\2nd term\\data base\\vs install\\addbookk\\addbookk\\editbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|solutionrelative:addbookk\\editbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|d:\\2nd year\\2nd term\\data base\\vs install\\addbookk\\addbookk\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|solutionrelative:addbookk\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|d:\\2nd year\\2nd term\\data base\\vs install\\addbookk\\addbookk\\borrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|solutionrelative:addbookk\\borrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|d:\\2nd year\\2nd term\\data base\\vs install\\addbookk\\addbookk\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDFA9E4-3CA8-4D8F-8A2F-B41707457C56}|AddBookk\\AddBookk.csproj|solutionrelative:addbookk\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\Form1.cs",
+              "RelativeDocumentMoniker": "AddBookk\\Form1.cs",
+              "ToolTip": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\Form1.cs",
+              "RelativeToolTip": "AddBookk\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:49:21.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteBook.cs",
+              "DocumentMoniker": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\DeleteBook.cs",
+              "RelativeDocumentMoniker": "AddBookk\\DeleteBook.cs",
+              "ToolTip": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\DeleteBook.cs",
+              "RelativeToolTip": "AddBookk\\DeleteBook.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvywAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:48:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditBook.cs",
+              "DocumentMoniker": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\EditBook.cs",
+              "RelativeDocumentMoniker": "AddBookk\\EditBook.cs",
+              "ToolTip": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\EditBook.cs",
+              "RelativeToolTip": "AddBookk\\EditBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:47:24.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReturnBook.cs",
+              "DocumentMoniker": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "AddBookk\\ReturnBook.cs",
+              "ToolTip": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\ReturnBook.cs",
+              "RelativeToolTip": "AddBookk\\ReturnBook.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAywE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:45:37.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowBook.cs",
+              "DocumentMoniker": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\BorrowBook.cs",
+              "RelativeDocumentMoniker": "AddBookk\\BorrowBook.cs",
+              "ToolTip": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\BorrowBook.cs",
+              "RelativeToolTip": "AddBookk\\BorrowBook.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:41:32.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\SignIn.cs",
+              "RelativeDocumentMoniker": "AddBookk\\SignIn.cs",
+              "ToolTip": "D:\\2nd year\\2nd term\\Data Base\\vs install\\AddBookk\\AddBookk\\SignIn.cs",
+              "RelativeToolTip": "AddBookk\\SignIn.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:54:03.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
